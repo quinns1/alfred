@@ -1,0 +1,6 @@
+gTTS==2.2.4
+openai==0.19.0
+python_vlc==3.0.16120
+scipy==1.8.0
+sounddevice==0.4.5
+whisper==1.0
